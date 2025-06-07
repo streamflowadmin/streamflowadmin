@@ -40,7 +40,7 @@ Here’s what I’m currently working on:
 ## 📫 Contact & Links
 
 - 🌍 Website: [Coming Soon]
-- 📺 YouTube: [StreamFlow Channel](#)
+- 📺 YouTube: [Coming Soon]
 - 📧 Email: admin@streamflow.dpdns.org
 
 ---
