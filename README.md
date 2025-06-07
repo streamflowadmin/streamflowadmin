@@ -23,9 +23,6 @@ Here’s what I’m currently working on:
 - **🌐 StreamFlow Web App**  
   A responsive video streaming platform with live and on-demand features.
 
-- **🎬 StreamFlow Video Intro Animation**  
-  A brand animation generated with Google Vertex AI (Imagen 4 Ultra), soon to be used for channel intros and splash screens.
-
 - **📦 Custom Backend Integrations**  
   Including video encoding pipelines, Cloudflare tunnel setup, and secure media storage.
 
